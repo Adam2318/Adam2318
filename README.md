@@ -8,6 +8,6 @@ Mostly working with .Net, Angular, Java, Node.js and Flutter.
 
 I like clean code and building things from scratch.
 
-Fun Facts :
-  › I'm a good football goalkeeper
+Fun Facts :<br>
+  › I'm a good football goalkeeper<br>
   › I'm always smiling, look also here : 😄
