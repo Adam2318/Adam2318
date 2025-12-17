@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Adam2318/Adam2318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adam, a software engineering student based in Clermont-Ferrand, France.
 
-Here are some ideas to get you started:
+I build software, web and mobile apps whenever I get an idea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mostly working with .Net, Angular, Java, Node.js and Flutter.
+
+I like clean code and building things from scratch.
+
+Fun Facts :
+  › I'm a good football goalkeeper
+  › I'm always smiling, look also here : 😄
